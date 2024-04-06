@@ -3,7 +3,7 @@ from Modules.SteamWebAPI.PlayerService import PlayerService
 
 
 argumentParser = argparse.ArgumentParser(
-    description="Retrieves all the games owned by the input SteamId"
+    description="Retrieves all games owned by the input SteamId"
 )
 argumentParser.add_argument(
     "-i", "--steam-id", help="The input SteamId.", required=True

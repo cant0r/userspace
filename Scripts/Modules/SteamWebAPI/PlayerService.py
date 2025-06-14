@@ -17,7 +17,7 @@ class PlayerService:
         include_appinfo: bool = False,
         include_played_free_games: bool = False,
         include_free_sub: bool = False,
-        skip_unvetted_apps: bool = "false",
+        skip_unvetted_apps: bool = False,
         language: str = "en_US",
         include_extended_appinfo: bool = False,
     ):

@@ -1,6 +1,6 @@
 # SrtAligner
 
-Renames your local `.srt` files to match your videos's filenames so programs like `VLC` can automatically picked them up when you play your videos.
+Renames your local `.srt` files to match your videos' filenames so programs like `VLC` can automatically picked them up when you play your videos.
 
 ## Usage
 ```shell

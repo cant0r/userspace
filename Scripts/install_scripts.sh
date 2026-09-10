@@ -10,5 +10,5 @@ else
 fi
 
 echo "Installing bash scripts from $(pwd)"
-cp -f rest.sh $scripts_dir/.
+cp -f rest.sh $scripts_dir/rest
 chmod u+x $scripts_dir/rest.sh
